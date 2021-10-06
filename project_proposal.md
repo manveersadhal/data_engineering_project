@@ -14,7 +14,7 @@ An example of an individual data point would be the price of a stock at a given 
 ## Tools
 - Data Acquisition and Storage
     - Google BigQuery
-- Dashboard / user interface
+- Dashboard / User Interface
     - Google Data Studio or Heroku or Flask
 
 ## MVP Goal
