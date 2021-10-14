@@ -8,7 +8,7 @@ import plotly.express as px
 # import seaborn as sns
 # from re import A
 
-engine = create_engine('sqlite:////Users/manveersadhal/Documents/MIgration/Documents/Metis Bootcamp/data_engineering_project/final/stocks.db')
+engine = create_engine('sqlite:///stocks.db')
 
 table = 'historical_prices'
 symbol = 'AAPL'
