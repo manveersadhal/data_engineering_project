@@ -24,7 +24,7 @@ symbol_list = symbol_df['Symbol'].tolist()
 
 st.title('Stock Dashboard')
 
-symbol = st.text_input("Symbol", "AAPL").upper()
+symbol = st.text_input("Symbol", "AAPL").upper().strip()
 
 if symbol in symbol_list:
     period_months = st.slider('Number of Months', min_value=5/30, max_value=float(15*12), value=1.0)
