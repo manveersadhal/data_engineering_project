@@ -9,3 +9,5 @@ For more details, please see the project deliverables below:
 - [Script to update tables nightly](./final/update_db.py)
 - [Code for Streamlit app](./final/app.py)
 - [App deployed on Heroku](https://warm-reef-29600.herokuapp.com/)
+- [Presentation slides](./final/data_pipeline.pdf)
+- [Written project summary](./final/data_pipeline_writeup.md)
